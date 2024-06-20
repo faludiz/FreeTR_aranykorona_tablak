@@ -2,6 +2,9 @@
 
 47/2017. (IX. 29.) FM rendelet, 3. melléklet alapján
 
+<p align="center"><img src="https://github.com/faludiz/FreeTR_aranykorona_tablak/assets/89804084/6afdf88e-249f-4b30-810e-087a5d2aa2c3"></p>
+
+
 ## Használat
 
 A **Sablon** mappában lévő akt fájlokat másold a [FreeTR](https://freetr.hu) **Sablon** mappájába. A betöltéshez a **Területszámítás** beállításainál kattints rá a *Táblázatok beolvasása* gombra, de a következő indításkor automatikusan be fogja tölteni az összes aranykora táblát.
